@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kingz
+- 👀 I’m interested in many different languages such as Kotlin, Python, Java, C++, C#, Swift, etc...
+- 🌱 I’m currently learning Python and Kotlin
+- 📫 How to reach me: (0,0)
